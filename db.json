@@ -1,0 +1,256 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "username": "Harry Potter",
+      "id": 1,
+      "title": "Unwilling Light",
+      "body": "Full moon Whomping Willow three turns should do it lemon drops."
+    },
+    {
+      "userId": 1,
+      "username": "Harry Potter",
+      "id": 2,
+      "title": "The Smooth Shores",
+      "body": "Toad-like smile Flourish and Blotts he knew I’d come back Quidditch World Cup."
+    },
+    {
+      "userId": 1,
+      "username": "Harry Potter",
+      "id": 3,
+      "title": "The Servant's Wizard",
+      "body": "Errol parchment knickerbocker glory Avada Kedavra Shell Cottage beaded bag portrait vulture-hat."
+    },
+    {
+      "userId": 2,
+      "username": "Ron Weasley",
+      "id": 4,
+      "title": "Spirit in the Hustler",
+      "body": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified."
+    },
+    {
+      "userId": 2,
+      "username": "Ron Weasley",
+      "id": 5,
+      "title": "The Prized Shards",
+      "body": "Metamorphimagus Niffler dead easy second bedroom."
+    },
+    {
+      "userId": 2,
+      "username": "Ron Weasley",
+      "id": 6,
+      "title": "The Ships's Nobody",
+      "body": "Restricted section the Burrow Wronski Feint gnomes, quidditch robes detention, chocolate frogs."
+    },
+    {
+      "userId": 3,
+      "username": "Hermione Granger",
+      "id": 7,
+      "title": "Wild Servants",
+      "body": "Half-giant jinxes peg-leg gillywater broken glasses large black dog Great Hall."
+    },
+    {
+      "userId": 3,
+      "username": "Hermione Granger",
+      "id": 8,
+      "title": "Nothing of Witch",
+      "body": "Stan Shunpike doe patronus, suck his soul Muggle-Born large order of drills the trace."
+    },
+    {
+      "userId": 3,
+      "username": "Hermione Granger",
+      "id": 9,
+      "title": "The Body's Emerald",
+      "body": "Fat Lady baubles banana fritters fairy lights Petrificus Totalus."
+    }
+  ],
+  "comments": [
+    {
+      "postId": 1,
+      "id": 1,
+      "name": "Alexandra Ashley",
+      "email": "jbuchana@yahoo.ca",
+      "body": "Tootsie roll chocolate I love cake tart apple pie chocolate bonbon."
+    },
+    {
+      "postId": 1,
+      "id": 2,
+      "name": "Ria Johnston",
+      "email": "portele@comcast.net",
+      "body": "Jujubes gingerbread candy dessert I love jelly-o icing. Halvah pudding dragée. Icing chupa chups gummi bears sugar plum sugar plum I love halvah chupa chups chupa chups."
+    },
+    {
+      "postId": 1,
+      "id": 3,
+      "name": "Cory Stokes",
+      "email": "mpiotr@icloud.com",
+      "body": "Topping sugar plum gingerbread tart sesame snaps. Jelly pudding dessert cake."
+    },
+    {
+      "postId": 1,
+      "id": 4,
+      "name": "Cory Stokes",
+      "email": "dalamb@att.net",
+      "body": "Candy macaroon croissant pastry marshmallow dessert. Cake chocolate bar jelly-o croissant candy pie. Cheesecake caramels bonbon sweet roll dessert chocolate cake. Bear claw jelly topping candy. Carrot cake cheesecake tootsie roll."
+    },
+    {
+      "postId": 2,
+      "id": 5,
+      "name": "Jerry Hart",
+      "email": "durist@icloud.com",
+      "body": "Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm."
+    },
+    {
+      "postId": 2,
+      "id": 6,
+      "name": "Brooke Pace",
+      "email": "jkegl@live.com",
+      "body": "Deadlights jack lad schooner scallywag dance the hempen jig carouser broadside cable strike colors. Bring a spring upon her cable holystone."
+    },
+    {
+      "postId": 2,
+      "id": 7,
+      "name": "Krystal Rowland",
+      "email": "crimsane@yahoo.com",
+      "body": "Trysail Sail ho Corsair red ensign hulk smartly boom jib rum gangway. Case shot Shiver me timbers gangplank crack Jennys tea cup ballast Blimey lee snow crow's nest rutters. Fluke jib scourge of the seven seas boatswain schooner."
+    },
+    {
+      "postId": 3,
+      "id": 8,
+      "name": "Tyshawn Patel",
+      "email": "hyper@outlook.com",
+      "body": "Cheese and wine stilton babybel cream cheese rubber cheese cheddar queso babybel."
+    },
+    {
+      "postId": 3,
+      "id": 9,
+      "name": "Miranda Neal",
+      "email": "chance@verizon.net",
+      "body": "Cream cheese mozzarella cheese triangles. Stinking bishop rubber cheese gouda camembert de normandie cheesy feet when the cheese comes out everybody's happy gouda fondue."
+    },
+    {
+      "postId": 3,
+      "id": 10,
+      "name": "Miranda Neal",
+      "email": "chrisj@aol.com",
+      "body": "Blue castello cheddar cheese slices."
+    },
+    {
+      "postId": 3,
+      "id": 11,
+      "name": "Prince Johnson",
+      "email": "janneh@comcast.net",
+      "body": "Chalk and cheese danish fontina cheese and wine. Cheesy feet cheese slices swiss goat cheese triangles cheesecake babybel who moved my cheese."
+    },
+    {
+      "postId": 3,
+      "id": 12,
+      "name": "Tiffany Stuart",
+      "email": "starstuff@sbcglobal.net",
+      "body": "Pepper jack monterey jack mozzarella. Cheese and wine stilton babybel cream."
+    },
+    {
+      "postId": 4,
+      "id": 13,
+      "name": "Jayden Irwin",
+      "email": "janusfury@live.com",
+      "body": "Goalposts we need to leverage our synergies, for run it up the flagpole."
+    },
+    {
+      "postId": 4,
+      "id": 14,
+      "name": "Jairus Marcus Gomez",
+      "email": "jmgomez@gmail.com",
+      "body": "Product management breakout fastworks organic growth overcome key issues to meet key milestones. Personal development who's responsible for the ask for this request, so circle back turn the crank."
+    },
+    {
+      "postId": 4,
+      "id": 15,
+      "name": "Phillip Moore",
+      "email": "tattooman@me.com",
+      "body": "Thats not what i saw in my head at all theres all this spanish text on my site you can get my logo from facebook."
+    },
+    {
+      "postId": 4,
+      "id": 16,
+      "name": "Kylie Smith",
+      "email": "mwitte@yahoo.com",
+      "body": "Other agencies charge much lesser that's going to be a chunk of change there is too much white space."
+    },
+    {
+      "postId": 4,
+      "id": 17,
+      "name": "Carter Herring",
+      "email": "malattia@aol.com",
+      "body": "Labrador you are lucky to even be doing this for us."
+    },
+    {
+      "postId": 5,
+      "id": 18,
+      "name": "Miranda Cordova",
+      "email": "philen@mac.com",
+      "body": "Zombie ipsum brains reversus ab cerebellum viral inferno, brein nam rick mend grimes malum cerveau cerebro."
+    },
+    {
+      "postId": 5,
+      "id": 19,
+      "name": "Liam Zamora",
+      "email": "nacho@gmail.com",
+      "body": "Summus thalamus brains sit​​, morbo basal ganglia vel maleficia."
+    },
+    {
+      "postId": 5,
+      "id": 20,
+      "name": "Susan Becker",
+      "email": "granboul@icloud.com",
+      "body": "Hi brains mindless mortuis limbic cortex soulless creaturas optic nerve, imo evil braaiinns stalking monstra hypothalamus adventus resi hippocampus."
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Aelin Ashryver Galathynius",
+      "username": "elentiya",
+      "email": "aelin@terrassen.com",
+      "country": "Terrasen",
+      "phone": "1-770-736-8031-5524",
+      "companyName": "Terrasen International"
+    },
+    {
+      "id": 2,
+      "name": "Dorian Havilliard",
+      "username": "princeling",
+      "email": "prince@adarlan.com",
+      "country": "Adarlan",
+      "phone": "1-324-954-11294-2284",
+      "companyName": "Adarlan Group of Companies"
+    },
+    {
+      "id": 3,
+      "name": "Rowan Whitethorn Galathynius",
+      "username": "fae prince",
+      "email": "rowan@terrassen.com",
+      "country": "Terrasen",
+      "phone": "4-973-123-8702-2905",
+      "companyName": "Doranelle Incorporated"
+    },
+    {
+      "id": 4,
+      "name": "Lysandra Ashryver",
+      "username": "shapeshifter",
+      "email": "lys@terrassen.com",
+      "country": "Terrasen",
+      "phone": "7-246-942-1203-8259",
+      "companyName": "Caraverre Goods & Trading"
+    },
+    {
+      "id": 5,
+      "name": "Chaol Westfall",
+      "username": "yrene tower's",
+      "email": "chaol@adarlan.com",
+      "country": "Anielle",
+      "phone": "3-894-235-7532-2085",
+      "companyName": "Towers Medical Inc."
+    }
+  ]
+}
