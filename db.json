@@ -270,24 +270,6 @@
       "id": 4,
       "title": "illo expedita consequatur quia in",
       "completed": false
-    },
-    {
-      "userId": 1,
-      "id": 5,
-      "title": "accusamus eos facilis sint et aut voluptatem",
-      "completed": true
-    },
-    {
-      "userId": 1,
-      "id": 6,
-      "title": "dolorum est consequatur ea mollitia in culpa",
-      "completed": false
-    },
-    {
-      "userId": 1,
-      "id": 7,
-      "title": "molestiae ipsa aut voluptatibus pariatur dolor nihil",
-      "completed": true
     }
   ]
 }
