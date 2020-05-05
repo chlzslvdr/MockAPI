@@ -4,7 +4,7 @@
 
 ### Sample Resources
 
-  - posts
+  - [posts](https://my-json-server.typicode.com/chlzslvdr/MockAPI/posts)
     ```
      {
       "userId": 1,
@@ -15,7 +15,7 @@
     }
     ```
     
-  - comments
+  - [comments](https://my-json-server.typicode.com/chlzslvdr/MockAPI/comments)
     ```
      {
       "postId": 3,
@@ -26,7 +26,7 @@
     }
     ```
         
-  - users
+  - [users](https://my-json-server.typicode.com/chlzslvdr/MockAPI/users)
     ```
      {
       "id": 2,
@@ -38,11 +38,11 @@
       "companyName": "Adarlan Group of Companies"
     }
            
-  - todo's
+  - [todo's](https://my-json-server.typicode.com/chlzslvdr/MockAPI/todos)
     ```
      {
-      "userId": 1,
-      "id": 2,
-      "title": "quis ut nam facilis et officia qui",
-      "completed": false
+      "userId": 2,
+      "id": 5,
+      "title": "tristique nisl eros proin sollicitudin morbi",
+      "completed": true
     }
