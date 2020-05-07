@@ -2,7 +2,7 @@
 
 [https://my-json-server.typicode.com/chlzslvdr/MockAPI](https://my-json-server.typicode.com/chlzslvdr/MockAPI)
 
-### Sample Resources
+### Sample
 
   - [posts](https://my-json-server.typicode.com/chlzslvdr/MockAPI/posts)
     ```
